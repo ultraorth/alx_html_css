@@ -99,6 +99,8 @@ nav a:hover {
 
 .hero h1 {
   font-size: 5rem;
+  height: 100px;
+  margin-top: 5rem;
 }
 
 .hero span {
@@ -117,7 +119,7 @@ nav a:hover {
   border: none;
   padding: 15px 30px;
   display: block;
-  margin: 2.5rem auto;
+  margin: 2.5rem auto 9rem auto;
   border-radius: 30px;
   font-weight: 600;
   cursor: pointer;
