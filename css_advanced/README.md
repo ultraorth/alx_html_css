@@ -20,7 +20,7 @@ The homepage is carefully designed to provide users with:
 2. Testimonials and credentials from smile experts.
 3. Easy navigation to popular tutorials and membership details.
 
-![Homepage Screenshot](./images/Object.png)
+![Homepage Screenshot](./images/School%20Page@2x.png)
 
 ## How to Use
 
